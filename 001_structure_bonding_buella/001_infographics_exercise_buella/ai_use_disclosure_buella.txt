@@ -1,0 +1,29 @@
+================================================================================
+AI USE DISCLOSURE STATEMENT
+Course: CHEM 13 (General Chemistry)
+================================================================================
+
+In accordance with the CHEM 13 syllabus policy on Artificial Intelligence usage, 
+this disclosure outlines the specific extent and nature of AI assistance utilized 
+during the completion of this assignment.
+
+AI Tool Used:
+- Generative AI Assistant (Gemini)
+
+Specific Uses:
+1. GitHub Repository Automation:
+   - Requested Python and Git terminal scripts/commands to systematically generate 
+     and structure project folders and file directories for GitHub submission.
+
+2. Infographic Content & Structural Assistance:
+   - Assistance in brainstorming structure, refining wording, and organizing 
+     chemical information (e.g., dosage limits, side effects, mechanisms of action) 
+     for Paracetamol, Amoxicillin, and Loperamide infographics.
+   - Formatting assistance for compact APA 7th edition references suited for limited 
+     infographic layout space.
+
+Verification Statement:
+All chemical data, molecular specifications, numerical properties, drug mechanisms, 
+safety guidelines, and references were independently verified against credible, 
+traceable scientific sources (including PubChem, StatPearls, and FDA databases). 
+The student accepts full responsibility for the accuracy and submission of all materials.
