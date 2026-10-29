@@ -1,0 +1,5 @@
+AI Use Disclosure
+
+I used ChatGPT as a learning support tool to improve the layout and presentation of my activity cards and to help recheck the chemical formulas and condensed structural formulas for possible errors. I understand that AI-assisted information may contain mistakes. I am responsible for independently verifying the atom count, valence, bond order, connectivity, lone pairs, and identity of each compound using credible CHEM 13 course materials and my own chemical reasoning.
+
+I will construct the required Lewis and Ketcher bond-line structures myself and verify that all four representations describe the same compound before submission.
